@@ -1,0 +1,6 @@
+{
+  "name": "Chibi Clash & Drift - Romantic Brawler & Racing",
+  "description": "Arcade fighting and racing game featuring AI character generators, spectator auto-battles, and competitive multiplayer leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
